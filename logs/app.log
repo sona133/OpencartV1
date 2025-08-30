@@ -1,0 +1,258 @@
+2025-07-12 12:19:13 INFO  TC001_AccountRegistration:15 - ****Starting Account Registration Test****
+2025-07-12 12:19:15 INFO  TC001_AccountRegistration:19 - Clicked on Register link
+2025-07-12 12:19:17 INFO  TC001_AccountRegistration:23 - Filled in the registration form
+2025-07-12 12:19:17 INFO  TC001_AccountRegistration:24 - ****Finished Account Registration Test****
+2025-07-12 12:19:17 INFO  TC001_AccountRegistration:34 - ****Finishing Account Registration Test****
+2025-07-12 16:43:01 INFO  TC001_AccountRegistration:15 - ****Starting Account Registration Test****
+2025-07-12 16:43:01 INFO  TC001_AccountRegistration:20 - Clicked on Register link
+2025-07-12 16:43:02 INFO  TC001_AccountRegistration:25 - Filled in the registration form
+2025-07-12 16:43:02 INFO  TC001_AccountRegistration:26 - ****Finished Account Registration Test****
+2025-07-12 16:43:02 INFO  TC001_AccountRegistration:34 - ****Finished Account Registration Test without any error****
+2025-07-12 16:50:10 INFO  TC001_AccountRegistration:15 - ****Starting Account Registration Test****
+2025-07-12 16:50:11 INFO  TC001_AccountRegistration:20 - Clicked on Register link
+2025-07-12 16:50:13 INFO  TC001_AccountRegistration:25 - Filled in the registration form
+2025-07-12 16:50:13 INFO  TC001_AccountRegistration:26 - ****Finished Account Registration Test****
+2025-07-12 16:50:13 INFO  TC001_AccountRegistration:34 - ****Finished Account Registration Test without any error****
+2025-07-12 16:53:53 INFO  TC001_AccountRegistration:15 - ****Starting Account Registration Test****
+2025-07-12 16:53:54 INFO  TC001_AccountRegistration:20 - Clicked on Register link
+2025-07-12 16:53:55 INFO  TC001_AccountRegistration:25 - Filled in the registration form
+2025-07-12 16:53:55 INFO  TC001_AccountRegistration:26 - ****Finished Account Registration Test****
+2025-07-12 16:53:55 INFO  TC001_AccountRegistration:34 - ****Finished Account Registration Test without any error****
+2025-07-12 16:54:00 INFO  TC001_AccountRegistration:15 - ****Starting Account Registration Test****
+2025-07-12 16:54:01 INFO  TC001_AccountRegistration:20 - Clicked on Register link
+2025-07-12 16:54:02 INFO  TC001_AccountRegistration:25 - Filled in the registration form
+2025-07-12 16:54:02 INFO  TC001_AccountRegistration:26 - ****Finished Account Registration Test****
+2025-07-12 16:54:02 INFO  TC001_AccountRegistration:34 - ****Finished Account Registration Test without any error****
+2025-07-12 16:55:13 INFO  TC001_AccountRegistration:15 - ****Starting Account Registration Test****
+2025-07-12 16:55:13 INFO  TC001_AccountRegistration:15 - ****Starting Account Registration Test****
+2025-07-12 16:55:13 INFO  TC001_AccountRegistration:20 - Clicked on Register link
+2025-07-12 16:55:14 INFO  TC001_AccountRegistration:20 - Clicked on Register link
+2025-07-12 16:55:15 INFO  TC001_AccountRegistration:25 - Filled in the registration form
+2025-07-12 16:55:15 INFO  TC001_AccountRegistration:26 - ****Finished Account Registration Test****
+2025-07-12 16:55:15 INFO  TC001_AccountRegistration:34 - ****Finished Account Registration Test without any error****
+2025-07-12 16:55:16 INFO  TC001_AccountRegistration:25 - Filled in the registration form
+2025-07-12 16:55:16 INFO  TC001_AccountRegistration:26 - ****Finished Account Registration Test****
+2025-07-12 16:55:16 INFO  TC001_AccountRegistration:34 - ****Finished Account Registration Test without any error****
+2025-07-12 17:15:03 INFO  TC001_AccountRegistration:15 - ****Starting Account Registration Test****
+2025-07-12 17:15:04 INFO  TC001_AccountRegistration:20 - Clicked on Register link
+2025-07-12 17:15:05 INFO  TC001_AccountRegistration:25 - Filled in the registration form
+2025-07-12 17:15:05 INFO  TC001_AccountRegistration:26 - ****Finished Account Registration Test****
+2025-07-12 17:15:05 INFO  TC001_AccountRegistration:34 - ****Finished Account Registration Test without any error****
+2025-07-12 17:49:21 INFO  TC001_AccountRegistration:17 - ****Starting Account Registration Test****
+2025-07-12 17:49:21 INFO  TC001_AccountRegistration:22 - Clicked on Register link
+2025-07-12 17:49:23 INFO  TC001_AccountRegistration:27 - Filled in the registration form
+2025-07-12 17:49:23 INFO  TC001_AccountRegistration:30 - ****Finished Account Registration Test****
+2025-07-12 17:49:23 INFO  TC001_AccountRegistration:38 - ****Finished Account Registration Test without any error****
+2025-07-12 18:52:51 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-07-12 19:13:24 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-07-12 19:18:50 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-07-12 19:18:52 INFO  TC002_LoginTest:39 - ****Finished Login Test without any error****
+2025-07-13 14:10:02 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-07-13 14:10:05 INFO  TC002_LoginTest:41 - ****Finished Login Test without any error****
+2025-07-13 14:16:31 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-07-13 14:16:33 INFO  TC002_LoginTest:41 - ****Finished Login Test without any error****
+2025-07-14 16:32:51 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-07-14 16:32:54 INFO  TC002_LoginTest:41 - ****Finished Login Test without any error****
+2025-07-14 16:50:49 INFO  TC001_AccountRegistration:17 - ****Starting Account Registration Test****
+2025-07-14 16:50:50 INFO  TC001_AccountRegistration:22 - Clicked on Register link
+2025-07-14 16:50:52 INFO  TC001_AccountRegistration:27 - Filled in the registration form
+2025-07-14 16:50:52 INFO  TC001_AccountRegistration:30 - ****Finished Account Registration Test****
+2025-07-14 16:50:52 INFO  TC001_AccountRegistration:38 - ****Finished Account Registration Test without any error****
+2025-07-14 16:50:55 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-07-14 16:50:58 INFO  TC002_LoginTest:41 - ****Finished Login Test without any error****
+2025-07-14 19:15:30 INFO  TC004_BillPaymentService:15 - ****Starting Bill Payment Service Test****
+2025-07-14 19:15:42 ERROR TC004_BillPaymentService:32 - Error during bill payment service test: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='payee.name']"}
+  (Session info: MicrosoftEdge=138.0.3351.83)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [b77b8e818021d762d0a225886fd89125, findElement {using=xpath, value=//input[@name='payee.name']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 138.0.3351.83, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:62617}, msedge: {msedgedriverVersion: 138.0.3351.83 (16e2a7bef320..., userDataDir: C:\Users\Sona\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62617/devtoo..., se:cdpVersion: 138.0.3351.83, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b77b8e818021d762d0a225886fd89125
+2025-07-14 19:15:42 INFO  TC004_BillPaymentService:36 - ****Finished Bill Payment Service Test without any error****
+2025-07-14 19:18:26 INFO  TC004_BillPaymentService:16 - ****Starting Bill Payment Service Test****
+2025-07-14 19:18:40 ERROR TC004_BillPaymentService:40 - Error during bill payment service test: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='1c91b01a-8642-4e6f-82c5-edeb0758af90']"}
+  (Session info: MicrosoftEdge=138.0.3351.83)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [55b4090196f33748eacfa5b2df833e3b, findElement {value=//input[@id='1c91b01a-8642-4e6f-82c5-edeb0758af90'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 138.0.3351.83, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:62729}, msedge: {msedgedriverVersion: 138.0.3351.83 (16e2a7bef320..., userDataDir: C:\Users\Sona\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62729/devtoo..., se:cdpVersion: 138.0.3351.83, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 55b4090196f33748eacfa5b2df833e3b
+2025-07-14 19:18:40 INFO  TC004_BillPaymentService:44 - ****Finished Bill Payment Service Test without any error****
+2025-07-14 19:21:46 INFO  TC004_BillPaymentService:16 - ****Starting Bill Payment Service Test****
+2025-07-14 19:21:50 INFO  TC004_BillPaymentService:38 - ****Finished Bill Payment Service Test****
+2025-07-14 19:21:50 INFO  TC004_BillPaymentService:44 - ****Finished Bill Payment Service Test without any error****
+2025-07-14 19:24:28 INFO  TC001_AccountRegistration:17 - ****Starting Account Registration Test****
+2025-07-14 19:24:29 INFO  TC001_AccountRegistration:22 - Clicked on Register link
+2025-07-14 19:24:30 INFO  TC001_AccountRegistration:27 - Filled in the registration form
+2025-07-14 19:24:30 INFO  TC001_AccountRegistration:30 - ****Finished Account Registration Test****
+2025-07-14 19:24:30 INFO  TC001_AccountRegistration:38 - ****Finished Account Registration Test without any error****
+2025-07-14 19:24:33 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-07-14 19:24:35 INFO  TC002_LoginTest:41 - ****Finished Login Test without any error****
+2025-07-14 19:24:39 INFO  TC004_BillPaymentService:16 - ****Starting Bill Payment Service Test****
+2025-07-14 19:24:41 INFO  TC004_BillPaymentService:38 - ****Finished Bill Payment Service Test****
+2025-07-14 19:24:41 INFO  TC004_BillPaymentService:44 - ****Finished Bill Payment Service Test without any error****
+2025-07-15 16:10:59 INFO  TC001_AccountRegistration:17 - ****Starting Account Registration Test****
+2025-07-15 16:11:00 INFO  TC001_AccountRegistration:22 - Clicked on Register link
+2025-07-15 16:11:01 INFO  TC001_AccountRegistration:27 - Filled in the registration form
+2025-07-15 16:11:02 INFO  TC001_AccountRegistration:30 - ****Finished Account Registration Test****
+2025-07-15 16:11:02 INFO  TC001_AccountRegistration:38 - ****Finished Account Registration Test without any error****
+2025-07-15 16:11:05 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-07-15 16:11:20 INFO  TC004_BillPaymentService:16 - ****Starting Bill Payment Service Test****
+2025-07-15 16:11:22 INFO  TC004_BillPaymentService:38 - ****Finished Bill Payment Service Test****
+2025-07-15 16:11:22 INFO  TC004_BillPaymentService:44 - ****Finished Bill Payment Service Test without any error****
+2025-07-15 16:12:11 INFO  TC004_BillPaymentService:16 - ****Starting Bill Payment Service Test****
+2025-07-15 16:12:14 INFO  TC004_BillPaymentService:38 - ****Finished Bill Payment Service Test****
+2025-07-15 16:12:14 INFO  TC004_BillPaymentService:44 - ****Finished Bill Payment Service Test without any error****
+2025-07-15 16:13:08 INFO  TC001_AccountRegistration:17 - ****Starting Account Registration Test****
+2025-07-15 16:13:09 INFO  TC001_AccountRegistration:22 - Clicked on Register link
+2025-07-15 16:13:10 INFO  TC001_AccountRegistration:27 - Filled in the registration form
+2025-07-15 16:13:20 INFO  TC001_AccountRegistration:38 - ****Finished Account Registration Test without any error****
+2025-07-15 16:13:24 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-07-15 16:13:39 INFO  TC004_BillPaymentService:16 - ****Starting Bill Payment Service Test****
+2025-07-15 16:13:41 INFO  TC004_BillPaymentService:38 - ****Finished Bill Payment Service Test****
+2025-07-15 16:13:41 INFO  TC004_BillPaymentService:44 - ****Finished Bill Payment Service Test without any error****
+2025-07-15 16:15:16 INFO  TC001_AccountRegistration:17 - ****Starting Account Registration Test****
+2025-07-15 16:15:17 INFO  TC001_AccountRegistration:22 - Clicked on Register link
+2025-07-15 16:15:18 INFO  TC001_AccountRegistration:27 - Filled in the registration form
+2025-07-15 16:15:28 INFO  TC001_AccountRegistration:38 - ****Finished Account Registration Test without any error****
+2025-07-15 16:15:32 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-07-15 16:15:46 INFO  TC004_BillPaymentService:16 - ****Starting Bill Payment Service Test****
+2025-07-15 16:15:49 INFO  TC004_BillPaymentService:38 - ****Finished Bill Payment Service Test****
+2025-07-15 16:15:49 INFO  TC004_BillPaymentService:44 - ****Finished Bill Payment Service Test without any error****
+2025-07-15 16:16:45 INFO  TC001_AccountRegistration:17 - ****Starting Account Registration Test****
+2025-07-15 16:16:46 INFO  TC001_AccountRegistration:22 - Clicked on Register link
+2025-07-15 16:16:47 INFO  TC001_AccountRegistration:27 - Filled in the registration form
+2025-07-15 16:16:48 INFO  TC001_AccountRegistration:30 - ****Finished Account Registration Test****
+2025-07-15 16:16:48 INFO  TC001_AccountRegistration:38 - ****Finished Account Registration Test without any error****
+2025-07-15 16:16:51 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-07-15 16:17:06 INFO  TC004_BillPaymentService:16 - ****Starting Bill Payment Service Test****
+2025-07-15 16:17:09 INFO  TC004_BillPaymentService:38 - ****Finished Bill Payment Service Test****
+2025-07-15 16:17:09 INFO  TC004_BillPaymentService:44 - ****Finished Bill Payment Service Test without any error****
+2025-07-15 22:27:14 INFO  TC001_AccountRegistration:17 - ****Starting Account Registration Test****
+2025-07-15 22:27:16 INFO  TC001_AccountRegistration:22 - Clicked on Register link
+2025-07-15 22:27:17 INFO  TC001_AccountRegistration:27 - Filled in the registration form
+2025-07-15 22:27:17 INFO  TC001_AccountRegistration:30 - ****Finished Account Registration Test****
+2025-07-15 22:27:17 INFO  TC001_AccountRegistration:38 - ****Finished Account Registration Test without any error****
+2025-07-15 22:27:21 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-07-15 22:27:36 INFO  TC004_BillPaymentService:16 - ****Starting Bill Payment Service Test****
+2025-07-15 22:27:47 ERROR TC004_BillPaymentService:40 - Error during bill payment service test: no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Bill Pay']"}
+  (Session info: MicrosoftEdge=138.0.3351.83)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [46d9e43beef56c87c208c803a8fcce70, findElement {value=//a[normalize-space()='Bill Pay'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 138.0.3351.83, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50447}, msedge: {msedgedriverVersion: 138.0.3351.83 (16e2a7bef320..., userDataDir: C:\Users\Sona\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50447/devtoo..., se:cdpVersion: 138.0.3351.83, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 46d9e43beef56c87c208c803a8fcce70
+2025-07-15 22:27:47 INFO  TC004_BillPaymentService:44 - ****Finished Bill Payment Service Test without any error****
+2025-07-15 22:28:48 INFO  TC001_AccountRegistration:17 - ****Starting Account Registration Test****
+2025-07-15 22:28:48 INFO  TC001_AccountRegistration:17 - ****Starting Account Registration Test****
+2025-07-15 22:28:49 INFO  TC001_AccountRegistration:22 - Clicked on Register link
+2025-07-15 22:28:49 ERROR TC001_AccountRegistration:34 - Error during account registration test: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=138.0.3351.83)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [702c1f93d19f83b39081b78d0a51ad1c, clickElement {id=f.4AEEFA178421874152DD195BEC2750B3.d.1D726CA273758546B7399AD218D92924.e.78}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 138.0.3351.83, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50488}, msedge: {msedgedriverVersion: 138.0.3351.83 (16e2a7bef320..., userDataDir: C:\Users\Sona\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50488/devtoo..., se:cdpVersion: 138.0.3351.83, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (702c1f93d19f83b39081b78d0a51ad1c)] -> xpath: //*[@id="loginPanel"]/p[2]/a]
+Session ID: 702c1f93d19f83b39081b78d0a51ad1c
+2025-07-15 22:28:49 INFO  TC001_AccountRegistration:38 - ****Finished Account Registration Test without any error****
+2025-07-15 22:28:49 ERROR TC001_AccountRegistration:34 - Error during account registration test: Error communicating with the remote browser. It may have died.
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [702c1f93d19f83b39081b78d0a51ad1c, sendKeysToElement [id, value]]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 138.0.3351.83, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50488}, msedge: {msedgedriverVersion: 138.0.3351.83 (16e2a7bef320..., userDataDir: C:\Users\Sona\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50488/devtoo..., se:cdpVersion: 138.0.3351.83, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (702c1f93d19f83b39081b78d0a51ad1c)] -> id: customer.firstName]
+Session ID: 702c1f93d19f83b39081b78d0a51ad1c
+2025-07-15 22:28:49 INFO  TC001_AccountRegistration:38 - ****Finished Account Registration Test without any error****
+2025-07-21 17:38:17 INFO  TC001_AccountRegistration:17 - ****Starting Account Registration Test****
+2025-07-21 17:38:18 ERROR TC001_AccountRegistration:34 - Error during account registration test: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-07-21 17:38:18 INFO  TC001_AccountRegistration:38 - ****Finished Account Registration Test without any error****
+2025-07-21 17:38:22 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-07-21 17:38:25 INFO  TC004_BillPaymentService:16 - ****Starting Bill Payment Service Test****
+2025-07-21 17:38:26 ERROR TC004_BillPaymentService:40 - Error during bill payment service test: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-07-21 17:38:26 INFO  TC004_BillPaymentService:44 - ****Finished Bill Payment Service Test without any error****
+2025-07-27 21:07:50 INFO  TC001_AccountRegistration:17 - ****Starting Account Registration Test****
+2025-07-27 21:07:51 ERROR TC001_AccountRegistration:34 - Error during account registration test: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-07-27 21:07:51 INFO  TC001_AccountRegistration:38 - ****Finished Account Registration Test without any error****
+2025-07-27 21:07:55 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-07-27 21:08:00 INFO  TC004_BillPaymentService:16 - ****Starting Bill Payment Service Test****
+2025-07-27 21:08:00 ERROR TC004_BillPaymentService:40 - Error during bill payment service test: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-07-27 21:08:00 INFO  TC004_BillPaymentService:44 - ****Finished Bill Payment Service Test without any error****
+2025-07-27 21:39:31 INFO  TC001_AccountRegistration:17 - ****Starting Account Registration Test****
+2025-07-27 21:39:32 ERROR TC001_AccountRegistration:34 - Error during account registration test: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-07-27 21:39:32 INFO  TC001_AccountRegistration:38 - ****Finished Account Registration Test without any error****
+2025-07-27 21:39:37 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-07-27 21:39:42 INFO  TC004_BillPaymentService:16 - ****Starting Bill Payment Service Test****
+2025-07-27 21:39:43 ERROR TC004_BillPaymentService:40 - Error during bill payment service test: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-07-27 21:39:43 INFO  TC004_BillPaymentService:44 - ****Finished Bill Payment Service Test without any error****
+2025-07-28 13:51:20 INFO  TC001_AccountRegistration:17 - ****Starting Account Registration Test****
+2025-07-28 13:51:21 ERROR TC001_AccountRegistration:34 - Error during account registration test: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-07-28 13:51:21 INFO  TC001_AccountRegistration:38 - ****Finished Account Registration Test without any error****
+2025-07-28 13:51:26 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-07-28 13:51:32 INFO  TC004_BillPaymentService:16 - ****Starting Bill Payment Service Test****
+2025-07-28 13:51:32 ERROR TC004_BillPaymentService:40 - Error during bill payment service test: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-07-28 13:51:32 INFO  TC004_BillPaymentService:44 - ****Finished Bill Payment Service Test without any error****
+2025-07-28 15:40:51 INFO  TC001_AccountRegistration:17 - ****Starting Account Registration Test****
+2025-07-28 15:40:52 ERROR TC001_AccountRegistration:34 - Error during account registration test: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-07-28 15:40:52 INFO  TC001_AccountRegistration:38 - ****Finished Account Registration Test without any error****
+2025-07-28 15:40:57 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-07-28 15:41:03 INFO  TC004_BillPaymentService:16 - ****Starting Bill Payment Service Test****
+2025-07-28 15:41:03 ERROR TC004_BillPaymentService:40 - Error during bill payment service test: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-07-28 15:41:03 INFO  TC004_BillPaymentService:44 - ****Finished Bill Payment Service Test without any error****
+2025-07-28 16:10:48 INFO  TC001_AccountRegistration:17 - ****Starting Account Registration Test****
+2025-07-28 16:10:49 ERROR TC001_AccountRegistration:34 - Error during account registration test: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-07-28 16:10:49 INFO  TC001_AccountRegistration:38 - ****Finished Account Registration Test without any error****
+2025-07-28 16:10:55 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-07-28 16:11:00 INFO  TC004_BillPaymentService:16 - ****Starting Bill Payment Service Test****
+2025-07-28 16:11:00 ERROR TC004_BillPaymentService:40 - Error during bill payment service test: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-07-28 16:11:00 INFO  TC004_BillPaymentService:44 - ****Finished Bill Payment Service Test without any error****
+2025-08-01 22:01:29 INFO  TC001_AccountRegistration:17 - ****Starting Account Registration Test****
+2025-08-01 22:01:29 ERROR TC001_AccountRegistration:34 - Error during account registration test: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-08-01 22:01:29 INFO  TC001_AccountRegistration:38 - ****Finished Account Registration Test without any error****
+2025-08-01 22:06:20 INFO  TC004_BillPaymentService:16 - ****Starting Bill Payment Service Test****
+2025-08-01 22:06:20 ERROR TC004_BillPaymentService:40 - Error during bill payment service test: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-08-01 22:06:20 INFO  TC004_BillPaymentService:44 - ****Finished Bill Payment Service Test without any error****
+2025-08-04 17:24:09 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-08-04 17:55:39 INFO  TC001_AccountRegistration:17 - ****Starting Account Registration Test****
+2025-08-04 17:55:40 ERROR TC001_AccountRegistration:34 - Error during account registration test: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-08-04 17:55:40 INFO  TC001_AccountRegistration:38 - ****Finished Account Registration Test without any error****
+2025-08-04 17:55:45 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-08-04 17:55:51 INFO  TC004_BillPaymentService:16 - ****Starting Bill Payment Service Test****
+2025-08-04 17:55:52 ERROR TC004_BillPaymentService:40 - Error during bill payment service test: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-08-04 17:55:52 INFO  TC004_BillPaymentService:44 - ****Finished Bill Payment Service Test without any error****
+2025-08-04 18:37:49 INFO  TC001_AccountRegistration:17 - ****Starting Account Registration Test****
+2025-08-04 18:37:50 ERROR TC001_AccountRegistration:34 - Error during account registration test: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-08-04 18:37:50 INFO  TC001_AccountRegistration:38 - ****Finished Account Registration Test without any error****
+2025-08-04 18:37:54 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-08-04 18:38:03 INFO  TC004_BillPaymentService:16 - ****Starting Bill Payment Service Test****
+2025-08-04 18:38:08 ERROR TC004_BillPaymentService:40 - Error during bill payment service test: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-08-04 18:38:08 INFO  TC004_BillPaymentService:44 - ****Finished Bill Payment Service Test without any error****
+2025-08-04 20:57:08 INFO  TC001_AccountRegistration:17 - ****Starting Account Registration Test****
+2025-08-04 20:57:09 ERROR TC001_AccountRegistration:34 - Error during account registration test: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-08-04 20:57:09 INFO  TC001_AccountRegistration:38 - ****Finished Account Registration Test without any error****
+2025-08-04 20:57:13 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-08-04 20:57:18 INFO  TC004_BillPaymentService:16 - ****Starting Bill Payment Service Test****
+2025-08-04 20:57:18 ERROR TC004_BillPaymentService:40 - Error during bill payment service test: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-08-04 20:57:18 INFO  TC004_BillPaymentService:44 - ****Finished Bill Payment Service Test without any error****
+2025-08-04 21:17:31 INFO  TC001_AccountRegistration:17 - ****Starting Account Registration Test****
+2025-08-04 21:17:31 ERROR TC001_AccountRegistration:34 - Error during account registration test: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-08-04 21:17:32 INFO  TC001_AccountRegistration:38 - ****Finished Account Registration Test without any error****
+2025-08-04 21:17:36 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-08-04 21:17:40 INFO  TC004_BillPaymentService:16 - ****Starting Bill Payment Service Test****
+2025-08-04 21:17:41 ERROR TC004_BillPaymentService:40 - Error during bill payment service test: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-08-04 21:17:41 INFO  TC004_BillPaymentService:44 - ****Finished Bill Payment Service Test without any error****
+2025-08-04 21:19:59 INFO  TC001_AccountRegistration:17 - ****Starting Account Registration Test****
+2025-08-04 21:20:00 ERROR TC001_AccountRegistration:34 - Error during account registration test: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-08-04 21:20:00 INFO  TC001_AccountRegistration:38 - ****Finished Account Registration Test without any error****
+2025-08-04 21:20:04 INFO  TC002_LoginTest:18 - ****Starting Login Test****
+2025-08-04 21:20:08 INFO  TC004_BillPaymentService:16 - ****Starting Bill Payment Service Test****
+2025-08-04 21:20:08 ERROR TC004_BillPaymentService:40 - Error during bill payment service test: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+2025-08-04 21:20:08 INFO  TC004_BillPaymentService:44 - ****Finished Bill Payment Service Test without any error****
